@@ -1,6 +1,6 @@
 # OIBSIP_dataanalytics_03
 
-# 📈 Task 5: House Price Prediction using Linear Regression
+# 📈 Task 3: House Price Prediction using Linear Regression
 
 ## **Internship**
 **Oasis Infobyte** - Data Science Internship (Virtual)
